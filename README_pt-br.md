@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/status-concluído-green)
 ![Linguagem](https://img.shields.io/badge/linguagem-Bash_Script-blue)
 
-[Read this file in English](README.en.md)
+[Read this file in English](README.md)
 
 ## 📖 Descrição
 
