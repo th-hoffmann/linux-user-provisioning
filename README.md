@@ -3,11 +3,11 @@
 ![Status](https://img.shields.io/badge/status-completed-green)
 ![Language](https://img.shields.io/badge/language-Bash_Script-blue)
 
-[Leia este arquivo em Português](README.md)
+[Leia este arquivo em Português](README_pt-br.md)
 
 ## 📖 Description
 
-This repository, **`linux-iac-user-setup`**, contains the **`iac-provisioning.sh`** script, developed as part of **DIO's Linux Fundamentals Training**. The project's goal is to automate the setup of the entire user, group, and directory infrastructure on a Linux server, applying Infrastructure as Code (IaC) concepts.
+This repository, **`linux-iac-user-setup`**, contains the **`iac-provisioning.sh`** script, developed as part of **[DIO's Linux Fundamentals Training](httpss://web.dio.me/track/linux-fundamentals)**. The project's goal is to automate the setup of the entire user, group, and directory infrastructure on a Linux server, applying Infrastructure as Code (IaC) concepts.
 
 The script ensures that when run on a new virtual machine, the entire permission structure is configured in a standardized and automated way, ready for use.
 
