@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/status-completed-green)
 ![Language](https://img.shields.io/badge/language-Bash_Script-blue)
 
-[Leia este arquivo em Português](README_pt-br.md)
+[Leia este arquivo em Português](README.md)
 
 ## 📖 Description
 
@@ -40,7 +40,7 @@ The **`iac-provisioning.sh`** script performs the following actions:
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/th-hoffmann/linux-iac-user-setup.git](https://github.com/th-hoffmann/linux-iac-user-setup.git)
+    git clone [https://github.com/YOUR-USERNAME/linux-iac-user-setup.git](https://github.com/YOUR-USERNAME/linux-iac-user-setup.git)
     ```
 
 2.  Navigate to the project directory:
@@ -60,3 +60,4 @@ The **`iac-provisioning.sh`** script performs the following actions:
 
 After execution, the user, group, and directory structure will be ready.
 
+---
