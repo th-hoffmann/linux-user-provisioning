@@ -3,11 +3,11 @@
 ![Status](https://img.shields.io/badge/status-concluído-green)
 ![Linguagem](https://img.shields.io/badge/linguagem-Bash_Script-blue)
 
-[Read this file in English](README.md)
+[Read this file in English](README.en.md)
 
 ## 📖 Descrição
 
-Este repositório, **`linux-iac-user-setup`**, contém o script **`iac-provisioning.sh`**, desenvolvido como parte da **Formação Linux Fundamentals da DIO**. O objetivo do projeto é automatizar a criação de toda a infraestrutura de usuários, grupos e diretórios em um servidor Linux, aplicando os conceitos de Infraestrutura como Código (IaC).
+Este repositório, **`linux-iac-user-setup`**, contém o script **`iac-provisioning.sh`**, desenvolvido como parte da **[Formação Linux Fundamentals da DIO](https://web.dio.me/track/formacao-linux-fundamentals)**. O objetivo do projeto é automatizar a criação de toda a infraestrutura de usuários, grupos e diretórios em um servidor Linux, aplicando os conceitos de Infraestrutura como Código (IaC).
 
 O script garante que, ao executar em uma nova máquina virtual, toda a estrutura de permissões seja configurada de forma padronizada e automática, pronta para uso.
 
@@ -40,7 +40,7 @@ O script **`iac-provisioning.sh`** realiza as seguintes ações:
 
 1.  Faça o clone deste repositório:
     ```bash
-    git clone [https://github.com/th-hoffmann/linux-iac-user-setup.git](https://github.com/th-hoffmann/linux-iac-user-setup.git)
+    git clone [https://github.com/SEU-USUARIO/linux-iac-user-setup.git](https://github.com/SEU-USUARIO/linux-iac-user-setup.git)
     ```
 
 2.  Navegue até o diretório do projeto:
