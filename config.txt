@@ -1,0 +1,16 @@
+# Configuração do Script de Provisionamento IaC
+# ================================================
+
+# Diretórios a serem criados
+DIRETORIOS="/publico /desenvolvimento /operacoes /seguranca"
+
+# Grupos de usuários
+GRUPOS="GRP_DEV GRP_OPS GRP_SEC"
+
+# Usuários por grupo
+USUARIOS_DEV="ana.silva carlos.pereira maria.santos"
+USUARIOS_OPS="joao.oliveira roberto.costa paula.ferreira"  
+USUARIOS_SEC="marcos.almeida lucia.rodrigues pedro.martins"
+
+# Senha padrão
+SENHA="TechCorp2025!"
