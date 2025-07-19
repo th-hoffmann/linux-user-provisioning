@@ -5,7 +5,7 @@ source "$(dirname "$0")/config.txt"
 
 echo "Criando diretórios..."
 
-mkdir -p $DIRETORIOS
+mkdir -p "$DIRETORIOS"
 
 echo "Criando grupos de usuários..."
 

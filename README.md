@@ -206,12 +206,12 @@ Developed by **[th-hoffmann](https://github.com/th-hoffmann)** as part of DIO's 
 
 3.  Grant execution permission to the script:
     ```bash
-    chmod +x iac-provisioning.sh
+    chmod +x linux-user-provisioning.sh
     ```
 
 4.  Run the script as root:
     ```bash
-    sudo ./iac-provisioning.sh
+    sudo ./linux-user-provisioning.sh
     ```
 
 After execution, the user, group, and directory structure will be ready.
